@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fire",
+				"fireRef"
+			],
+			[
+				"baclg",
+				"background-color"
+			],
+			[
+				"ret",
+				"returnIndex"
+			],
+			[
+				"new",
+				"newFname"
+			],
+			[
+				"las",
+				"lastName"
+			],
+			[
+				"fname",
+				"fname"
+			],
+			[
+				"P",
+				"PhoneBook"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"conta",
+				"contact"
+			],
+			[
+				"cont",
+				"contacts"
+			],
+			[
+				"img",
+				"imgSel"
+			],
+			[
+				"ul",
+				"ul"
+			],
+			[
+				"red",
+				"redditData"
+			],
+			[
+				"add",
+				"addTitleToPost"
+			],
+			[
+				"color",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "java",
+		"selected_items":
+		[
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/clyde/Dev/FEND/p1/portfolio.html",
+		"/Users/clyde/Dev/FEND/p1/portfolio.css",
+		"/Users/clyde/Dev/FEND/tic tac toe/tictac.html",
+		"/Users/clyde/Dev/chats/public/index.html",
+		"/Users/clyde/Dev/FEND/portfolio.css",
+		"/Users/clyde/Dev/FEND/portfolio.html",
+		"/Users/clyde/Downloads/FE Nanodegree Project 0/index.html",
+		"/Users/clyde/Downloads/FE Nanodegree Project 0/styles.css",
+		"/Users/clyde/Downloads/Projects/face.jpeg",
+		"/Users/clyde/Dev/chats/public/app.js",
+		"/Users/clyde/Dev/chats/public/app.css",
+		"/Users/clyde/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/clyde/Dev/chats/public/bookstore.js",
+		"/Users/clyde/Dev/chats/public/bookstore.html",
+		"/Users/clyde/Dev/chats/index.html",
+		"/Users/clyde/Dev/chats/app.css",
+		"/Users/clyde/Dev/chats/lib/firebase.js",
+		"/Users/clyde/Desktop/phonebook.js",
+		"/Users/clyde/Desktop/reddit.html",
+		"/Users/clyde/Desktop/reddit.css",
+		"/Users/clyde/Downloads/gregory moss Resume.html",
+		"/Users/clyde/Desktop/todo.html",
+		"/Users/clyde/Desktop/todo.css",
+		"/Users/clyde/Desktop/jquery.html",
+		"/Users/clyde/Desktop/var greg"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"}",
+			"</section>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

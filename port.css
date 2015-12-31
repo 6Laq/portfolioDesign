@@ -1,0 +1,104 @@
+.main {
+  padding: 0px 100px;
+}
+
+/*phone*/
+@media (max-width: 720px) {
+  .main {
+    padding: 0px 20px;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+  h1.feature-header {
+    text-align: center;
+  }
+  .work-col {
+    margin-bottom: 20px;
+  }
+  .main-logo {
+    height: 50vh;
+  }
+}
+
+/*tablet*/
+@media (max-width: 1279px) and (min-width: 721px) {
+  .main {
+    padding: 0px 50px;
+  }
+  .main-logo {
+    height: 60vh;
+  }
+}
+
+/*desktop*/
+@media (min-width: 1280px) {
+  .main {
+    padding: 0px 50px;
+  }
+  h1 {
+    font-size: 50px;
+  }
+  .main-logo {
+    height: 75vh;
+  }
+}
+
+.border-bottom {
+  border-bottom: 3px solid grey;
+}
+
+header {
+  margin-bottom: 25px;
+  padding: 15px 10px;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.title {
+  font-family: courier, Georgia;
+  font-size: 30px;
+  opacity: .8;
+}
+
+.sub-title{
+  color: #ff8888;
+  font-family: georgia;
+  opacity: .8;
+}
+
+.logo-img {
+  max-width: 35%;
+}
+
+
+.main-logo {
+  min-width: 100%;
+  margin-bottom: 20px;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1 {
+  color: royalblue;
+  font-family: courier;
+}
+
+.app {
+  font-size: 25px;
+  color: green;
+  font-family: courier;
+  font-style: oblique;
+  margin-left: 50px;
+}
+
+.info {
+  font-size: 15px;
+  font-family: arial;
+  color: blue;
+  opacity: .5
+}
